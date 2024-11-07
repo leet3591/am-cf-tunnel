@@ -14,7 +14,7 @@ let userID = '2928d83a-ca75-4d52-b437-fa78c7601378';
 
 // Proxy IPs to choose from
 let proxyIPs = [
-	'184.169.181.217'
+	'172.247.21.125'
 ];
 // Randomly select a proxy IP from the list
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
