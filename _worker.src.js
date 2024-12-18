@@ -44,9 +44,9 @@ let ipUrlCsv = [
 ];
 // Preferred addresses with optional TLS subscription
 let ipLocal = [
-	'visa.cn:443#youtube.com/@AM_CLUB 订阅频道获取更多教程',
-	'icook.hk#t.me/AM_CLUBS 加入交流群解锁更多优选节点',
-	'time.is#github.com/amclubs GitHub仓库查看更多项目'
+	'proxyip.us.186077.xyz:443#proxy-us',
+	'ni.radically.pro:443#proxy-us',
+	'proxy.20141030.xyz:443##proxy-us'
 ];
 let noTLS = 'false';
 let sl = 5;
